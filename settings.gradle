@@ -1,0 +1,4 @@
+rootProject.name = "VideoEditSample"
+include ':app'
+include ':camera'
+include ':core'
